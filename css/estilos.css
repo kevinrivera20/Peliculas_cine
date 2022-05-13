@@ -17,6 +17,7 @@ li.opcion {
     color: #fff;
     font-size: 25px;
     border: 2px solid #fff;
+    border-radius: 15px;
 }
 
 a.opcion {
