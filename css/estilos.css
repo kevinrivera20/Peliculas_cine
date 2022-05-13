@@ -1,0 +1,41 @@
+body {
+    background: #000;
+}
+h1 {
+    text-align: center;
+    padding: 30px;
+    color: teal;
+}
+
+li.opcion {
+    padding: 15px;
+    float: left;
+    margin: 0px 1px;
+    background: teal;
+    margin-left: 105px;
+    margin-right: 10px;
+    color: #fff;
+    font-size: 25px;
+    border: 2px solid #fff;
+}
+
+a.opcion {
+    display: block;
+    padding: 5px;
+    cursor: pointer;
+    justify-content: space-between;
+}
+
+.movies {
+    float: left;
+    margin: 0px 1px;
+    margin-left: 480px;
+    margin-right: 10px;
+    display: block;
+    padding: 60px;
+    justify-content: space-between;
+    color: #fff;
+}
+
+
+
